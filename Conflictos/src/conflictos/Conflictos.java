@@ -3,7 +3,8 @@ package conflictos;
 public class Conflictos {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
+		System.out.println("Hola soy Pedro Gallardo");
 
 	}
 
